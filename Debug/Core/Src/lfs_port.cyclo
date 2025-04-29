@@ -1,0 +1,4 @@
+../Core/Src/lfs_port.c:19:5:user_lfs_read	1
+../Core/Src/lfs_port.c:25:5:user_lfs_prog	3
+../Core/Src/lfs_port.c:39:5:user_lfs_erase	2
+../Core/Src/lfs_port.c:54:5:user_lfs_sync	1
